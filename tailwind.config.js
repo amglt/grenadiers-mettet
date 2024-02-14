@@ -7,7 +7,8 @@ export default {
     },
     extend: {
       fontFamily: {
-        'raleway': ['Raleway']
+        'raleway': ['Raleway'],
+        'montserrat': ['Montserrat']
       },
       padding: {
         '7.5': '1.875rem'
@@ -16,7 +17,17 @@ export default {
         'primary': '#6C6C6C',
         'secondary': '#414141',
         'header-logo': '#E8E8E8',
-        'header-text': '#efefef'
+        'header-text': '#EFEFEF',
+        'top-title-text': '#F4F4F4'
+      },
+      borderWidth:{
+        1: '1px'
+      },
+      lineHeight: {
+        5.5: '1.375rem'
+      },
+      backgroundImage: {
+        'header': "url('/img/header-background.jpg')"
       }
     },
   },
