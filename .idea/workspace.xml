@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="16087b38-083b-4eca-be39-3a52e3659a34" name="Changes" comment="feat: add prisma to project" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="false" />
+    <option name="myAllFileTypesSelected" value="true" />
+    <option name="mySelectedFileTypes">
+      <set />
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="feature/header-upper" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;state&quot;: &quot;OPEN&quot;
+    }
+  ],
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubProjectSettings">
+    <option name="branchProtectionPatterns">
+      <list>
+        <option value="main" />
+      </list>
+    </option>
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="1ad81533-b8f0-44f3-9770-f2c0a16086e0" />
+        <option name="url" value="git@github.com:amglt/grenadiers-mettet.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2XuA5cWeCN8XumpbB8O563IKWqs" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/amerg/Projects/grenadiers-mettet&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;C:\\Users\\amerg\\Projects\\grenadiers-mettet\\node_modules\\prettier&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\amerg\\AppData\\Local\\Programs\\WebStorm\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+        <item itemvalue="npm.dev" />
+        <item itemvalue="npm.dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16087b38-083b-4eca-be39-3a52e3659a34" name="Changes" comment="" />
+      <created>1699468409931</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699468409931</updated>
+      <workItem from="1699468411809" duration="17596000" />
+      <workItem from="1699891141005" duration="129000" />
+      <workItem from="1699891527304" duration="2187000" />
+      <workItem from="1699907269433" duration="269000" />
+      <workItem from="1699907547956" duration="4786000" />
+      <workItem from="1703003976337" duration="177000" />
+      <workItem from="1707901887070" duration="642000" />
+    </task>
+    <task id="LOCAL-00001" summary="init project">
+      <option name="closed" value="true" />
+      <created>1699472917117</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699472917117</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update .gitignore">
+      <option name="closed" value="true" />
+      <created>1699473509379</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1699473509379</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update .gitignore">
+      <option name="closed" value="true" />
+      <created>1699473519029</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1699473519029</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat: add build workflow">
+      <option name="closed" value="true" />
+      <created>1699474854872</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1699474854872</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fix: add workflow_dispatch event trigger to build.yml">
+      <option name="closed" value="true" />
+      <created>1699475054831</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1699475054831</updated>
+    </task>
+    <task id="LOCAL-00006" summary="fix: add workflow_dispatch event trigger to build.yml">
+      <option name="closed" value="true" />
+      <created>1699475466381</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1699475466381</updated>
+    </task>
+    <task id="LOCAL-00007" summary="fix: add npm ci">
+      <option name="closed" value="true" />
+      <created>1699475622050</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1699475622050</updated>
+    </task>
+    <task id="LOCAL-00008" summary="feat: add i18n to project">
+      <option name="closed" value="true" />
+      <created>1699488156041</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1699488156041</updated>
+    </task>
+    <task id="LOCAL-00009" summary="feat: add prisma to project">
+      <option name="closed" value="true" />
+      <created>1699908153625</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1699908153625</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init project" />
+    <MESSAGE value="update .gitignore" />
+    <MESSAGE value="feat: add build workflow" />
+    <MESSAGE value="fix: add workflow_dispatch event trigger to build.yml" />
+    <MESSAGE value="fix: add npm ci" />
+    <MESSAGE value="feat: add i18n to project" />
+    <MESSAGE value="feat: add prisma to project" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add prisma to project" />
+  </component>
+</project>
