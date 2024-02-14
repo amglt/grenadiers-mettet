@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16087b38-083b-4eca-be39-3a52e3659a34" name="Changes" comment="feat: add prisma to project">
+    <list default="true" id="16087b38-083b-4eca-be39-3a52e3659a34" name="Changes" comment="init: add Tailwind">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/Header.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +22,8 @@
         <option value="+layout.svelte" />
         <option value="CSS File" />
         <option value="Header" />
+        <option value="Container" />
+        <option value="Logo" />
       </list>
     </option>
   </component>
@@ -134,7 +137,7 @@
       <workItem from="1699907547956" duration="4786000" />
       <workItem from="1703003976337" duration="177000" />
       <workItem from="1707901887070" duration="854000" />
-      <workItem from="1707902753274" duration="525000" />
+      <workItem from="1707902753274" duration="3632000" />
     </task>
     <task id="LOCAL-00001" summary="init project">
       <option name="closed" value="true" />
@@ -208,7 +211,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699908153625</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="init: add Tailwind">
+      <option name="closed" value="true" />
+      <created>1707903372045</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1707903372045</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -222,6 +233,7 @@
     <MESSAGE value="fix: add npm ci" />
     <MESSAGE value="feat: add i18n to project" />
     <MESSAGE value="feat: add prisma to project" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: add prisma to project" />
+    <MESSAGE value="init: add Tailwind" />
+    <option name="LAST_COMMIT_MESSAGE" value="init: add Tailwind" />
   </component>
 </project>
