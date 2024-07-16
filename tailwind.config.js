@@ -2,8 +2,9 @@
 export default {
   content: ['./src/**/*.{html,js,svelte,ts}'],
   theme: {
-    screen: {
-      lg: '980px'
+    screens: {
+      'tablet': '768px',
+      'desktop': '1280px'
     },
     extend: {
       fontFamily: {
